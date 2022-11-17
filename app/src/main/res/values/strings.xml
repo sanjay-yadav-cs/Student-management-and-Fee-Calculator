@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="fee_calculator">Fee Calculator</string>
+    <string name="item">Item</string>
+</resources>
